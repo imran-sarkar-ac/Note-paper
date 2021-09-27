@@ -15,5 +15,6 @@ you need .env file on the root directory of the project.
 .env file contained 2 config var
 
 JWTSCRET          // json web token secret
+
 MONGODB_URI       // mongodb url  
 
