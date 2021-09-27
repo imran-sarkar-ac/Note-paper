@@ -1,11 +1,18 @@
 install server dependancy
+
 run : npm install
 
+
 install client dependancy and build
+
 run : npm run install-client
+
 run : npm run build
 
+
+
 run the project : 
+
 run : npm start
 
 
